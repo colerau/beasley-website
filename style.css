@@ -4,6 +4,35 @@
 }
 
 h1 {
-  font-family: 'Sacramento', serif;
+  font-family: 'Sacramento', sans-serif;
   font-size: 70px;
+}
+
+#navbar {
+  background-color: #FEEFFC;
+  border-radius: 6px;
+  /* padding-top: 7px;
+  padding-bottom: 7px; */
+}
+
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  background-color: #FEF5FE;
+  border-radius: 6px;
+}
+
+
+.space-evenly { 
+  justify-content: space-evenly; 
+}
+
+.container {
+  width: 50%;
+}
+
+li {
+  font-family: 'Quicksand', sans-serif;
 }
