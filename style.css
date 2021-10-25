@@ -1,3 +1,9 @@
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
 h1 {
-  color: blue;
+  font-family: 'Sacramento', serif;
+  font-size: 70px;
 }
