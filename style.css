@@ -17,7 +17,6 @@ h1 {
   border-radius: 6px;
 }
 
-
 .space-evenly { 
   justify-content: space-evenly; 
 }
@@ -31,7 +30,6 @@ h1 {
 }
 
 .fall-collection-pic {
-  /* width: 750px; */
   height: 750px;
   border-radius: 12px;
 }
@@ -52,9 +50,18 @@ span {
   font-size: 20px;
 }
 
+.variety-pic {
+  height: 550px;
+  border-radius: 12px;
+}
 
+.all-products-container {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
-
-
-
+/* 
+#all-products-p {
+  font-size: 13px; 
+} */
 
