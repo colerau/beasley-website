@@ -33,6 +33,28 @@ h1 {
   width: 50%;
 }
 
-li {
+.quicksand {
   font-family: 'Quicksand', sans-serif;
 }
+
+.variety-pic {
+  width: 750px;
+  border-radius: 12px;
+}
+
+.fall-collection-container {
+  padding-top: 10px;
+}
+
+span {
+  font-size: 75px;
+}
+
+.white-text {
+  color: white;
+}
+
+
+
+
+
