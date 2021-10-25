@@ -8,17 +8,12 @@ h1 {
   font-size: 70px;
 }
 
-#navbar {
-  background-color: #FEEFFC;
-  border-radius: 6px;
-}
-
 .flex-container {
   padding: 0;
   margin: 0;
   list-style: none;
   display: flex;
-  background-color: #FEF5FE;
+  background-color: #fff0db;
   border-radius: 6px;
 }
 
