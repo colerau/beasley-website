@@ -11,8 +11,6 @@ h1 {
 #navbar {
   background-color: #FEEFFC;
   border-radius: 6px;
-  /* padding-top: 7px;
-  padding-bottom: 7px; */
 }
 
 .flex-container {
@@ -37,8 +35,9 @@ h1 {
   font-family: 'Quicksand', sans-serif;
 }
 
-.variety-pic {
-  width: 750px;
+.fall-collection-pic {
+  /* width: 750px; */
+  height: 750px;
   border-radius: 12px;
 }
 
@@ -53,6 +52,12 @@ span {
 .white-text {
   color: white;
 }
+
+#fall-collection-p {
+  font-size: 20px;
+}
+
+
 
 
 
