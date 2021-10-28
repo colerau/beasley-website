@@ -17,6 +17,15 @@ h1 {
   border-radius: 6px;
 }
 
+.flex-container-footer {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  background-color: #fff0db;
+  border-radius: 6px;
+}
+
 .space-evenly { 
   justify-content: space-evenly; 
 }
@@ -68,4 +77,8 @@ span {
 .btn-outline-dark:hover {
   background-color: #c7fce7;
   color: black;
+}
+
+h2 {
+  font-size: 40px;
 }
