@@ -65,3 +65,7 @@ span {
   font-size: 13px; 
 } */
 
+.btn-outline-dark:hover {
+  background-color: #c7fce7;
+  color: black;
+}
