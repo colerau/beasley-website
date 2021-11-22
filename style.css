@@ -121,3 +121,14 @@ h2 {
   flex-wrap: wrap;
 }
 
+.home-page-footer {
+  /* display: flex;
+  flex-direction: row; */
+  padding-bottom: 10px;
+  padding-top: 10px;
+  background-color: #fff0db;
+  /* align-items: center;
+  justify-content: center; */
+  /* border-radius: 6px; */
+  text-align: center;
+}
