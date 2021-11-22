@@ -30,9 +30,9 @@ h1 {
   justify-content: space-evenly; 
 }
 
-.container {
+/* .container-navbar {
   width: 50%;
-}
+} */
 
 .quicksand {
   font-family: 'Quicksand', sans-serif;
@@ -81,4 +81,34 @@ span {
 
 h2 {
   font-size: 40px;
+}
+
+.home-fall-collection {
+  display: flex;
+  /* align-items: center;
+  justify-content: center; */
+
+}
+
+.flex-fall-collection-pic {
+  max-width: 100%;
+  height: auto;
+  width: 800px;
+}
+
+#home-fall-collection-picture {
+  display: flex;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+
+}
+
+#home-fall-collection-text {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
