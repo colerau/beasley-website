@@ -101,7 +101,7 @@ h2 {
 .flex-fall-collection-pic {
   max-width: 100%;
   height: auto;
-  height: 700px;
+  width: 700px;
 }
 
 #home-fall-collection-picture {
@@ -120,3 +120,4 @@ h2 {
   align-items: center;
   flex-wrap: wrap;
 }
+
