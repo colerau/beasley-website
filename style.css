@@ -168,3 +168,9 @@ h2 {
   display: flex;
   flex-direction: column;
 }
+
+#variety-container h3 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 20px;
+}
